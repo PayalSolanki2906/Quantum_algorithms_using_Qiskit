@@ -1,0 +1,1 @@
+I am currently learning about quantum computing and algorithms using the Qiskit software development kit. As part of my studies, I have been building quantum circuits for various algorithms and periodically pushing my work to a GitHub repository. This allows me to keep track of my progress and share my code with others in the quantum computing community.
